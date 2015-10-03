@@ -1,7 +1,7 @@
 /**
  * Created by fcmam5 on 02/10/15.
  */
-public class Joueur {
+public class Joueur { // parfait donc pas de boulot pour demain :)
     private int score;
     private byte rScore;
     private static int jID = 0;
